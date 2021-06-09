@@ -13,3 +13,7 @@ to manage and configure a collection of small, independent services that can be 
 ## 1. Architecture considerations for cloud native
 ### a. Design considerations
 ![Summary](images/design_consideration.PNG "Summary")
+
+### b. Monoliths and Microservices
+![Summary](images/mono_micro_1.PNG "Summary")
+![Summary](images/mono_micro_2.PNG "Summary")
