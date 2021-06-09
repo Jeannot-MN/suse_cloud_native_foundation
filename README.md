@@ -14,4 +14,4 @@ to manage and configure a collection of small, independent services that can be 
 ### a. Design considerations
 List the functional requirements , or what application capabilities should deliver to the end-users.
 List all available resources that facilitates the implementation of the project
-![Summary](images/design_consideration.png?raw=true "Summary")
+![Summary](images/design_consideration.PNG "Summary")
